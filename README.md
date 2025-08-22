@@ -4,4 +4,4 @@ A bash script and an apple script that lets you specify a string and a delay, an
 
 Good for recording demo videos like this (meta) one.
 
-![Demo Video](demo-demo.mp4)
+ <video src="https://github.com/user-attachments/assets/9a749fbe-f8dc-4abb-b794-5aa02ef436b6"></video>
