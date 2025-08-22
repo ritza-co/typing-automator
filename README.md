@@ -4,7 +4,4 @@ A bash script and an apple script that lets you specify a string and a delay, an
 
 Good for recording demo videos like this (meta) one.
 
-  <video width="600" controls>
-    <source src="demo-demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+![Demo Video](demo-demo.mp4)
